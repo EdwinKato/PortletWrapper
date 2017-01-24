@@ -1,3 +1,2 @@
-# Mendix Widget Boilerplate
+# Portlet Wrapper
 
-See [AppStoreWidgetBoilerplate](https://github.com/mendix/AppStoreWidgetBoilerplate/) for an example
