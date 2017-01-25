@@ -32,13 +32,23 @@
         </property>
         <property key="objectType" type="enumeration" defaultValue="dashBoardObject">
             <caption>Object Type</caption>
-            <category>Appearance</category>
+            <category>Data</category>
             <description>Object type</description>
             <enumerationValues>
                 <enumerationValue key="dashBoardObject">Dashboard object</enumerationValue>
                 <enumerationValue key="queryStudioReport">Query studio report</enumerationValue>
                 <enumerationValue key="reportStudioReport">Report studio report</enumerationValue>
             </enumerationValues>
+        </property>
+        <property key="height" type="integer" defaultValue="200">
+            <caption>Height</caption>
+            <category>Appearance</category>
+            <description>Height of iframe</description>
+        </property>
+        <property key="width" type="integer" defaultValue="200">
+            <caption>Width</caption>
+            <category>Appearance</category>
+            <description>Width of iframe</description>
         </property>
     </properties>
 </widget>
